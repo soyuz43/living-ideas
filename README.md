@@ -28,11 +28,6 @@ Then this repository is for you.
 
 ---
 
-## Core Document
-
-- [`livingideas.md`](./livingideas.md) — The primary artifact. A recursive map of symbolic protocols, AGI substrate theory, alignment critiques, and emergent ontology modeling. Read with caution. Read with care.
-
----
 
 ## Why This Exists
 
